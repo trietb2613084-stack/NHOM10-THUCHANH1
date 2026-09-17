@@ -10,6 +10,10 @@ Bài thực hành gồm các nội dung chính:
 - Thực hiện cài đặt phần mềm Notepad++.
 - Tìm hiểu cách tích hợp trình biên dịch Python vào Notepad++ với sự hỗ trợ của AI.
 
+### Phần 2:Giải quyết các sự cố kỹ thuật Đơn giản với AI
+- Sử dụng AI để tìm cách khắc phục lỗi WIFI
+- Xử li lỗi phần mềm cơ bản
+
 ### Phần 3: Ứng dụng AI trong học tập
 - Sử dụng Canva AI để tạo infographic phục vụ học tập.
 - Đánh giá các vấn đề đạo đức khi sử dụng AI.
